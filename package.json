@@ -1,0 +1,23 @@
+{
+  "name": "vue-multiselect-locale-de",
+  "version": "0.0.1",
+  "description": "A vue-multiselect locale in german",
+  "main": "vue-multiselect-locale-de.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fohlen/vue-multiselect-locale-de.git"
+  },
+  "keywords": [
+    "vuejs",
+    "locale"
+  ],
+  "author": "Lennard Berger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fohlen/vue-multiselect-locale-de/issues"
+  },
+  "homepage": "https://github.com/Fohlen/vue-multiselect-locale-de#readme",
+  "dependencies": {
+    "vue-multiselect": "=2.0.0-beta13"
+  }
+}
