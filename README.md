@@ -8,7 +8,7 @@ You'd install this as you would install vue-multiselect via `npm install vue-mul
 Since this is just a layer, all child properties are forwarded to `vue-multiselect`.
 
 ## Using a different dependency version
-This layer ships with `2.0-beta13` by default. If you're uncomfortable with using this version you can use [npm shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap), which will do it comfortably for you.
+This layer ships with `2.0-beta15` by default. If you're uncomfortable with using this version you can use [npm shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap), which will do it comfortably for you.
 
 ## Assemble with webpack
 You can import the module like this:
