@@ -2,7 +2,7 @@
   "name": "vue-multiselect-locale-de",
   "version": "0.0.1",
   "description": "A vue-multiselect locale in german",
-  "main": "vue-multiselect-locale-de.js",
+  "main": "vue-multiselect-locale-de.vue",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Fohlen/vue-multiselect-locale-de.git"
