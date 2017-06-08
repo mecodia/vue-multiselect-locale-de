@@ -12,7 +12,7 @@ export default {
      */
     selectLabel: {
       type: String,
-      default: 'Eingabetaste zum auswählen des Elements'
+      default: ''
     },
     /**
      * String to show next to selected option
@@ -30,7 +30,7 @@ export default {
     */
     deselectLabel: {
       type: String,
-      default: 'Eingabetaste zum abwählen des Elements'
+      default: ''
     }
   }
 }
