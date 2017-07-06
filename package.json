@@ -1,6 +1,6 @@
 {
   "name": "vue-multiselect-locale-de",
-  "version": "0.0.1",
+  "version": "2.0.0-beta.15",
   "description": "A vue-multiselect locale in german",
   "main": "vue-multiselect-locale-de.vue",
   "repository": {
